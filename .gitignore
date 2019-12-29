@@ -1,4 +1,4 @@
 **/*.xpi
-Makefile
 **/tags
 web-ext-artifacts
+sign
